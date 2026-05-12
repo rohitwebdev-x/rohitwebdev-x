@@ -1,5 +1,7 @@
 ## Hi 👋, I'm Rohit kumar
 
+I am a Web Developer.
+
 <!--
 **rohitwebdev-x/rohitwebdev-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
